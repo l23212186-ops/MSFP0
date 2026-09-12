@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Christian Cid Pacheco [l23212186@tijuana.tecnm.mx]
+Nombre completo; Christian Cid Pacheco. No. Control; 23212186 [l23212186@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
